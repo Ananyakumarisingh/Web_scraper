@@ -14,8 +14,8 @@ const obj = {
   },
   flyFrom: " CCU",
   flyTo: "LHR",
-  departureDate: " 10-10",
-  returnDate: " 10-12",
+  departureDate: " 01-10",
+  returnDate: " 01-12",
 };
 
 async function search(url) {
